@@ -1,2 +1,4 @@
-# 範例下載後請先執行 npm install
-# 請根據pdf上的範例新增 .env 檔
+- 範例下載後請先執行 npm install
+- 請根據 pdf 上的範例新增 .env 檔
+- 透過 npm start 啟動專案
+- 開啟瀏覽器輸入 http://localhost:3001
